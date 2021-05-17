@@ -1,3 +1,10 @@
+<center>
+held in conjunction with IEEE BIBM 2021
+Houston, TX, USA
+December 9-12, 2021
+<http://ieeebibm.org/BIBM2021/>
+</center>
+
 # Description
 
 With the advances of sequencing techniques, single cell sequencing opens an unprecedented opportunity for multiomics analysis at single-cell resolution. It has allowed us to simultaneously profile multiomic layers of DNA, RNA, protein, methylation, or open chromatin nucleosome positioning in single cell to analyze the underlying mechanisms of human diseases and cellular development. To date, many algorithms have been designed to analyze different types of single cell data, and a majority of them have achieved great success in dealing with problems such as sequencing artifacts, grouping cells into cell types, and inferring cell trajectory. However, most of the approaches are data-dependent and have their own pros and cons in dealing with different experimental design and data types. **Development of algorithms and tools for integrative analysis of multiomic single-cell profiling is a crucial step toward understanding the interplay of biological systems.**
