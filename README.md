@@ -64,6 +64,8 @@ We invite investigators to contribute Original Research on computational methods
 
 - Hu Zheng, University of Chinese Academy of Sciences
 
+- Yuan Ye, Shanghai Jiao Tong University
+
 # Workshop Submission Requirement
 
 Please submit a full-length paper (up to <font color='red'> 8 page IEEE 2-column format </font>) through the online submission system (you can download the format instruction [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).
