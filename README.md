@@ -32,8 +32,6 @@ We invite investigators to contribute Original Research on computational methods
 
 - **Dec 9-12, 2021**: Workshops
 
-\*D-Day
-
 # Program Chairs
 
 - Eric Lu Zhang, Department of Computer Science, Hong Kong Baptist University
@@ -58,7 +56,7 @@ We invite investigators to contribute Original Research on computational methods
 
 # Workshop Submission Requirement
 
-Please submit a full-length paper (up to $\color{red}{8 page IEEE 2-column format}$) through the online submission system (you can download the format instruction [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).
+Please submit a full-length paper (up to <font color='red'> 8 page IEEE 2-column format </font>) through the online submission system (you can download the format instruction [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).
 Electronic submissions (in PDF or Postscript format) are required. Selected participants will be asked to submit their revised papers in a format to be specified at the time of acceptance.  
 
 
