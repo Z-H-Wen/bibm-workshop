@@ -1,65 +1,64 @@
 # Description
 
-In recent years, deep learning has been spotlighted as the most active research field with its great success in various machine learning communities, such as image analysis, speech recognition, and natural language processing, and now its promising potential is being actively discussed in the field of biomedicine. In particular, a dramatically increasing number of deep learning-based approaches have been proposed in biomedical images and signal processing. However, relatively little application of deep learning has been made in other biomedical areas such as genomics and computational biology due to the difficulty of definition and interpretation of deep learning architecture. Moreover, there are still many challenging tasks with many open problems in deep learning that need to be solved for active use in bioinformatics, biomedicine, and healthcare informatics.
+With the advances of sequencing techniques, single cell sequencing opens an unprecedented opportunity for multiomics analysis at single-cell resolution. It has allowed us to simultaneously profile multiomic layers of DNA, RNA, protein, methylation, or open chromatin nucleosome positioning in single cell to analyze the underlying mechanisms of human diseases and cellular development. To date, many algorithms have been designed to analyze different types of single cell data, and a majority of them have achieved great success in dealing with problems such as sequencing artifacts, grouping cells into cell types, and inferring cell trajectory. However, most of the approaches are data-dependent and have their own pros and cons in dealing with different experimental design and data types. **Development of algorithms and tools for integrative analysis of multiomic single-cell profiling is a crucial step toward understanding the interplay of biological systems.**
 
-The 4th International Workshop on Deep Learning in Bioinformatics, Biomedicine, and Healthcare Informatics (DLB2H) will be held in conjunction with IEEE International Conference on Bioinformatics and Biomedicine (BIBM) in Seoul, South Korea, at Decenber 16 - 19, 2020. The goal of this workshop is to bring together researchers with expertise of deep learning in bioinformatics, biomedicine, and healthcare informatics and share current cutting-edge deep learning methodologies and its applications. Papers are welcome from the following topics (but not limited to):
+We invite investigators to contribute Original Research on computational methods in analyzing single cell multiomic data, and their applications in molecular biological and complex diseases. Potential topics include but are not limited to the following:
 
-- Protein structures
-- Gene expression regulations
-- Genome-wide association studies
-- Protein function prediction
-- DNA-protein binding site identification
-- Clustering cancer subtypes
-- Single-cell clustering
-- Cancer diagnosis
-- 3D brain reconstruction (MRI/fMRI)
-- Tissue image classification/Organ segmentation
-- Anomaly detection
-- Human activity recognition
-- Human behavior monitoring
+- Computational models for integrating multiomic single-cell profiling, e.g. scRNA-seq, scATAC-seq, scCLIP-seq, single-cell spatial transcriptomics.
+
+- Novel analyses to identify risk factors of cancers or complex genetic diseases in single-cell resolution
+
+- Bioinformatics software and databases for analyzing single-cell data.
+
+- Imputation and cell type clustering on different types of single-cell data
+
+- New algorithms or tools to analyze copy number variation on scRNA-seq data
+
+- Trajectory inference
+
+- Computational tools to generate synthetic single-cell data
+
+- New methods to reconstruct gene regulatory network
+
+- Algorithms to integrate single-cell and bulk sequencing data
 
 # Important Dates (Tentative)
 
-- Full workshop paper submission due: November 2, 2020
-- Notification of paper acceptance: November 16, 2020
-- Camera-ready due of accepted papers: November 26, 2020
-- Workshop: December 16, 2020 (D150)
+- **Oct 10, 2021**: Due date for full workshop papers submission
+
+- **Nov 1, 2021**: Notification of paper acceptance to authors
+
+- **Nov. 21, 2021**: Camera-ready of accepted papers
+
+- **Dec 9-12, 2021**: Workshops
 
 \*D-Day
 
-# Paper Submission
-
-Please submit a paper (4 page IEEE 2-column format, but can be up to 6 pages without an additionaly fee), via online BIBM paper submission system: <https://wi-lab.com/cyberchair/2020/bibm20/scripts/submit.php?subarea=S19&undisplay_detail=1&wh=/cyberchair/2020/bibm20/scripts/ws_submit.php>. Papers should be formatted to IEEE Proceedings Manuscript Formatting Guidelines. You can download the format instruction here: <http://www.ieee.org/conferences_events/conferences/publishing/templates.html>. Electronic submissions (in PDF or Postscript format) are required.
-
-**Submit a paper**: [Click here](https://github.com/Z-H-Wen/bibm_workshop_test)
-
-# Publication
-
-All accepted papers will be published in the BIBM proceedings and IEEE Digital Library (Xplore).
-
-# Journal Inivitation
-
-Selected high-quality papers will be invited for publication in a [special issue](https://github.com/Z-H-Wen/bibm_workshop_test) of **International Journal of Molecular Sciences (Impact factor: 4.556)**. Authors must extend their camera-ready paper by at least 30% by adding theoretical background and/or foundation, related work, detailed methods, additional experiments (using additional datasets), and/or additional discussion.
-
-# Program
-
-DLB2H will be held on December 16 (Wednesday), 9am - 12pm in Korea standard time (4/6/7pm-7/9/10pm PT/CST/EST, December 15). The program is [here](https://github.com/Z-H-Wen/bibm_workshop_test).
-
 # Program Chairs
 
-- Jung Hun Oh, Department of Medical Physics, Memorial Sloan Kettering Cancer Center, USA E-mail: <ohj@mskcc.org>
-- Mingon Kang, Department of Computer Science, University of Nevada, Las Vegas, USA E-mail: <mingon.kang@unlv.edu>
+- Eric Lu Zhang, Department of Computer Science, Hong Kong Baptist University
+
+- Xin (Maizie) Zhou, Department of Biomedical Engineering and Computer Science, Vanderbilt University
+
+- Xian Fan Mallory, Department of Computer Science, Florida State University
+
+- Debajyoti Chowdhury, School of Chinese Medicine, Hong Kong Baptist University
 
 # Program Committee Members
 
-- Ananda Mondal, Florida International University
-- Ashis Kumer Biswas, University of Colorado Denver
-- Romeil Sandhu, Stony Brook University
-- Wookjin Choi, Virginia State University
-- Jie Hao, University of Pennsylvania
+- Ruli Gao, Houston Methodist Hospital
 
-# Previous Workshops
+- Wenji Ma, Chinese Academy of Science
 
-- [3rd DLB2H](http://dataxlab.org/DLB2H/2019.php) in conjunction with IEEE BIBM 2019 in San Diego, CA, USA
-- [2nd DLB2H](http://dataxlab.org/DLB2H/2018.php) in conjunction with IEEE BIBM 2018 in Madrid, Spain
-- [1st DLB2H](http://dataxlab.org/DLB2H/2017.php) in conjunction with IEEE BIBM 2017 in Kansas City, MO, USA
+- Yong Fei Wang, The University of Hong Kong
+
+- Wenjun Shen, Shantou University
+
+- Hu Zheng, University of Chinese Academy of Sciences
+
+# Workshop Submission Requirement
+
+Please submit a full-length paper (up to $\color{red}{8 page IEEE 2-column format}$) through the online submission system (you can download the format instruction [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).
+Electronic submissions (in PDF or Postscript format) are required. Selected participants will be asked to submit their revised papers in a format to be specified at the time of acceptance.  
+
+
