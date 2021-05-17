@@ -1,7 +1,6 @@
-<p align="center">
-  in conjunction with IEEE
-  <a href="http://ieeebibm.org/BIBM2021/" target="_blank">BIBM 2021</a>
-</p>
+in conjunction with IEEE
+<a href="http://ieeebibm.org/BIBM2021/" target="_blank">BIBM 2021</a>
+
 
 <p align="center">Houston, TX, USA</p>
 
