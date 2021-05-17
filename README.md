@@ -1,5 +1,4 @@
-<center>held in conjunction with </center>
-[IEEE BIBM 2021](http://ieeebibm.org/BIBM2021/)
+in conjunction with [IEEE BIBM 2021](http://ieeebibm.org/BIBM2021/)
 
 Houston, TX, USA
 
