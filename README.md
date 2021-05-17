@@ -1,12 +1,12 @@
-<p align="center">
-  in conjunction with IEEE
-  <a href="http://ieeebibm.org/BIBM2021/" target="_blank">BIBM 2021</a>
+<p align="right">
+  in conjunction with
+  <a href="http://ieeebibm.org/BIBM2021/" target="_blank">IEEE BIBM 2021</a>
 </p>
 
 
-<p align="center">Houston, TX, USA</p>
+<p align="right">Houston, TX, USA</p>
 
-<p align="center">December 9-12, 2021</p>
+<p align="right">December 9-12, 2021</p>
 
 # Description
 
