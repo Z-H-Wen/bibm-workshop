@@ -71,4 +71,10 @@ We invite investigators to contribute Original Research on computational methods
 Please submit a full-length paper (up to <font color='red'> 8 page IEEE 2-column format </font>) through the online submission system (you can download the format instruction [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).
 Electronic submissions (in PDF or Postscript format) are required. Selected participants will be asked to submit their revised papers in a format to be specified at the time of acceptance.  
 
+# Workshop Online Submission:
+
+**Submit a paper**: [Click here](https://wi-lab.com/cyberchair/2021/bibm21/scripts/submit.php?subarea=S09&undisplay_detail=1&wh=/cyberchair/2021/bibm21/scripts/ws_submit.php
+)
+
+
 
