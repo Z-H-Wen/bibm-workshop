@@ -73,7 +73,7 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
 
 # Workshop Online Submission:
 
-**Submit a paper**: [Click here](https://wi-lab.com/cyberchair/2021/bibm21/scripts/submit.php?subarea=S09&undisplay_detail=1&wh=/cyberchair/2021/bibm21/scripts/ws_submit.php
+**Submit a paper** [Click here](https://wi-lab.com/cyberchair/2021/bibm21/scripts/submit.php?subarea=S09&undisplay_detail=1&wh=/cyberchair/2021/bibm21/scripts/ws_submit.php
 )
 
 
