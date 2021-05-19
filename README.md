@@ -62,9 +62,9 @@ We invite investigators to contribute Original Research on computational methods
 
 - Wenjun Shen, Shantou University
 
-- Hu Zheng, University of Chinese Academy of Sciences
+- Zheng Hu, University of Chinese Academy of Sciences
 
-- Yuan Ye, Shanghai Jiao Tong University
+- Ye Yuan, Shanghai Jiao Tong University
 
 # Workshop Submission Requirement
 
