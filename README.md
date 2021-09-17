@@ -52,26 +52,26 @@ We invite investigators to contribute Original Research on computational methods
 
 - **Debajyoti Chowdhury**, School of Chinese Medicine, Hong Kong Baptist University
 
+# Program Committee Members
+
+- **Ruli Gao**, Houston Methodist Hospital
+
+- **Wenji Ma**, Chinese Academy of Science
+
+- **Yong Fei Wang**, The University of Hong Kong
+
+- **Wenjun Shen**, Shantou University
+
+- **Zheng Hu**, University of Chinese Academy of Sciences
+
+- **Ye Yuan**, Shanghai Jiao Tong University
+
 # KEYNOTE SPEAKERS
 
 - **Wei Vivian Li**，Assistant Professor, Department of Biostatistics and Epidemiology， 
 Rutgers School of Public Health, Rutgers university
 
 - **Ye Yuan**, Associate Professor , Department of Automation,  Shanghai Jiao Tong University
-
-# Program Committee Members
-
-- Ruli Gao, Houston Methodist Hospital
-
-- Wenji Ma, Chinese Academy of Science
-
-- Yong Fei Wang, The University of Hong Kong
-
-- Wenjun Shen, Shantou University
-
-- Zheng Hu, University of Chinese Academy of Sciences
-
-- Ye Yuan, Shanghai Jiao Tong University
 
 # Workshop Submission Requirement
 
