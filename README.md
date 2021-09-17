@@ -44,13 +44,20 @@ We invite investigators to contribute Original Research on computational methods
 
 # Program Chairs
 
-- Eric Lu Zhang, Department of Computer Science, Hong Kong Baptist University
+- **Eric Lu Zhang**, Department of Computer Science, Hong Kong Baptist University
 
-- Xin (Maizie) Zhou, Department of Biomedical Engineering and Computer Science, Vanderbilt University
+- **Xin (Maizie) Zhou**, Department of Biomedical Engineering and Computer Science, Vanderbilt University
 
-- Xian Fan Mallory, Department of Computer Science, Florida State University
+- **Xian Fan Mallory**, Department of Computer Science, Florida State University
 
-- Debajyoti Chowdhury, School of Chinese Medicine, Hong Kong Baptist University
+- **Debajyoti Chowdhury**, School of Chinese Medicine, Hong Kong Baptist University
+
+# KEYNOTE SPEAKERS
+
+- **Wei Vivian Li**，Assistant Professor, Department of Biostatistics and Epidemiology， 
+Rutgers School of Public Health, Rutgers university
+
+- **Ye Yuan**, Associate Professor , Department of Automation,  Shanghai Jiao Tong University
 
 # Program Committee Members
 
