@@ -34,13 +34,13 @@ We invite investigators to contribute Original Research on computational methods
 
 # Important Dates (Tentative)
 
-- **Oct 10, 2021**: Due date for full workshop papers submission
+- **Oct. 20, 2021**: Due date for full workshop papers submission
 
-- **Nov 1, 2021**: Notification of paper acceptance to authors
+- **Nov. 5, 2021**: Notification of paper acceptance to authors
 
 - **Nov. 21, 2021**: Camera-ready of accepted papers
 
-- **Dec 9-12, 2021**: Workshops
+- **Dec. 9, 2021**: Workshops
 
 # Program Chairs
 
