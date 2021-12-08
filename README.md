@@ -85,6 +85,7 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
 
 # Time Table
 
+<div style="text-align:center">
 <table border="1">
    <tr>
       <td>Time</td>
@@ -135,3 +136,4 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
       <td colspan="2">Closing Remarks</td>
    </tr>
 </table>
+</dev>
