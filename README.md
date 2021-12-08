@@ -84,7 +84,7 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
 )
 
 # Time Table
-<div align = center>
+<center>
 <table border="1" cellpadding="3" cellspacing="0" style="width: 60%;margin:auto">
    <tr>
       <td>Time</td>
@@ -135,4 +135,5 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
       <td colspan="2">Closing Remarks</td>
    </tr>
 </table>
-</dev>
+</center>
+      <td>Sheida Nabavi</td>
