@@ -84,71 +84,16 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
 )
 
 # Time Table
-<table>
-   <tr>
-      <td>"Computational methods and their applications on single cell multiomic data</td>
-   </tr>
-   <tr>
-      <td>WorkshopChairs: Xin Zhou, maiziezhoulab@gmail.com and Lu Zhang, ericluzhang@hkbu.edu.hk"</td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>Time</td>
-      <td>Title</td>
-      <td>Presenter/Author</td>
-   </tr>
-   <tr>
-      <td>40 mins</td>
-      <td>Gene relationship inference from multimodality single cell expression data </td>
-      <td>"Ye Yuan (keynote speaker), </td>
-   </tr>
-   <tr>
-      <td>Shanghai Jiao Tong University, China"</td>
-   </tr>
-   <tr>
-      <td>20 mins</td>
-      <td>(B461) Time-Series Analysis of Gene Correlation Networks based on Single-cell Transcriptome Data</td>
-      <td>Yasuhito Asano</td>
-   </tr>
-   <tr>
-      <td>20 mins</td>
-      <td>(B501) The effect of the infarct regions on vulnerability to reentry in two different stages of myocardial infarction</td>
-      <td>Cuiping Liang</td>
-   </tr>
-   <tr>
-      <td>20 mins</td>
-      <td>(B527)  Integration of Multiple scRNA-Seq Datasets on the Autoencoder Latent Space</td>
-      <td>Andrea Tangherloni</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Coffee Break</td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>40 mins</td>
-      <td>Model-based Analysis of Alternative Polyadenylation Using 3’ End Reads</td>
-      <td>"Wei Li (keynote speaker)</td>
-   </tr>
-   <tr>
-      <td>Rutgers School of Public Health, USA"</td>
-   </tr>
-   <tr>
-      <td>20 mins</td>
-      <td>(B725) A Bayesian framework for inferring heterogeneity of cellular processes using single-cell data</td>
-      <td>Tianhai Tian</td>
-   </tr>
-   <tr>
-      <td>20 mins</td>
-      <td>(B816) Single-cell RNA sequencing data clustering using graph convolutional networks</td>
-      <td>Sheida Nabavi</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Closing Remarks</td>
-      <td></td>
-   </tr>
-</table>
 
-
+| Computational methods and their applications on   single cell multiomic data      WorkshopChairs: Xin Zhou, maiziezhoulab@gmail.com and   Lu Zhang, ericluzhang@hkbu.edu.hk |                                                                                                                           |                                                                         |   |   |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|---|---|
+|                                                                                     Time                                                                                    |                                                           Title                                                           |                             Presenter/Author                            |   |   |
+|                                                                                   40 mins                                                                                   |                       Gene   relationship inference from multimodality single cell expression data                        | Ye   Yuan (keynote speaker),       Shanghai Jiao Tong University, China |   |   |
+|                                                                                   20 mins                                                                                   |            (B461)   Time-Series Analysis of Gene Correlation Networks based on Single-cell   Transcriptome Data           |                             Yasuhito   Asano                            |   |   |
+|                                                                                   20 mins                                                                                   | (B501)   The effect of the infarct regions on vulnerability to reentry in two   different stages of myocardial infarction |                             Cuiping   Liang                             |   |   |
+|                                                                                   20 mins                                                                                   |                   (B527)    Integration of Multiple scRNA-Seq Datasets on the Autoencoder Latent   Space                  |                           Andrea   Tangherloni                          |   |   |
+|                                                                                                                                                                             |                                                       Coffee   Break                                                      |                                                                         |   |   |
+|                                                                                   40 mins                                                                                   |                          Model-based   Analysis of Alternative Polyadenylation Using 3’ End Reads                         |   Wei   Li (keynote speaker)      Rutgers School of Public Health, USA  |   |   |
+|                                                                                   20 mins                                                                                   |          (B725)   A Bayesian framework for inferring heterogeneity of cellular processes using   single-cell data         |                              Tianhai   Tian                             |   |   |
+|                                                                                   20 mins                                                                                   |                   (B816) Single-cell RNA   sequencing data clustering using graph convolutional networks                  |                              Sheida Nabavi                              |   |   |
+|                                                                                                                                                                             |                                                      Closing Remarks                                                      |                                                                         |   |   |
