@@ -85,10 +85,10 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
 
 # Time Table
 
-<table border="1" cellpadding="3" cellspacing="0" style="width: 60%;margin:auto">
+<table border="1" width="50%" height="150" cellspacing="0">
    <tr>
      
-      <td><center>Time</center></td>
+      <td>Time</td>
       <td>Title</td>
       <td>Presenter/Author</td>
      
