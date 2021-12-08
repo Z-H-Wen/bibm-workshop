@@ -113,7 +113,7 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
    </tr>
    <tr>
       <td></td>
-      <td colspan="2">Coffee Break</td>
+      <th colspan="2">Coffee Break</th>
    </tr>
    <tr>
       <td>40 mins</td>
@@ -132,7 +132,7 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
    </tr>
    <tr>
       <td></td>
-      <td colspan="2">Closing Remarks</td>
+      <th colspan="2">Closing Remarks</th>
    </tr>
 </table>
 
