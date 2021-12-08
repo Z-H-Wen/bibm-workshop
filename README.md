@@ -87,12 +87,6 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
 
 <table border="1">
    <tr>
-     <td colspan="3">Computational methods and their applications on single cell multiomic data
-      </br>
-      WorkshopChairs: Xin Zhou, maiziezhoulab@gmail.com and Lu Zhang, ericluzhang@hkbu.edu.hk
-     </td>
-   </tr>
-   <tr>
       <td>Time</td>
       <td>Title</td>
       <td>Presenter/Author</td>
@@ -119,8 +113,7 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
    </tr>
    <tr>
       <td></td>
-      <td>Coffee Break</td>
-      <td></td>
+      <td colspan="2">Coffee Break</td>
    </tr>
    <tr>
       <td>40 mins</td>
@@ -139,7 +132,6 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
    </tr>
    <tr>
       <td></td>
-      <td>Closing Remarks</td>
-      <td></td>
+      <td colspan="2">Closing Remarks</td>
    </tr>
 </table>
