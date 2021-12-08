@@ -86,10 +86,12 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
 # Time Table
 <table>
    <tr>
-      <td>Computational methods and their applications on single cell multiomic data</td>
+      <td>"Computational methods and their applications on single cell multiomic data</td>
    </tr>
    <tr>
-      <td>WorkshopChairs: Xin Zhou, maiziezhoulab@gmail.com and Lu Zhang, ericluzhang@hkbu.edu.hk</td>
+      <td>WorkshopChairs: Xin Zhou, maiziezhoulab@gmail.com and Lu Zhang, ericluzhang@hkbu.edu.hk"</td>
+      <td></td>
+      <td></td>
    </tr>
    <tr>
       <td>Time</td>
@@ -99,20 +101,15 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
    <tr>
       <td>40 mins</td>
       <td>Gene relationship inference from multimodality single cell expression data </td>
-      <td>Ye Yuan (keynote speaker), </td>
+      <td>"Ye Yuan (keynote speaker), </td>
    </tr>
    <tr>
-      <td>Shanghai Jiao Tong University, China</td>
+      <td>Shanghai Jiao Tong University, China"</td>
    </tr>
    <tr>
       <td>20 mins</td>
       <td>(B461) Time-Series Analysis of Gene Correlation Networks based on Single-cell Transcriptome Data</td>
       <td>Yasuhito Asano</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
    </tr>
    <tr>
       <td>20 mins</td>
@@ -121,30 +118,26 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
    </tr>
    <tr>
       <td>20 mins</td>
-      <td>(B527)  Integration of Multiple scRNA-Seq Datasets on the Autoencoder Latent Space</td>
+      <td>(B527)  Integration of Multiple scRNA-Seq Datasets on the Autoencoder Latent Space</td>
       <td>Andrea Tangherloni</td>
    </tr>
    <tr>
       <td></td>
       <td>Coffee Break</td>
+      <td></td>
    </tr>
    <tr>
       <td>40 mins</td>
       <td>Model-based Analysis of Alternative Polyadenylation Using 3’ End Reads</td>
-      <td>Wei Li (keynote speaker)</td>
+      <td>"Wei Li (keynote speaker)</td>
    </tr>
    <tr>
-      <td>Rutgers School of Public Health, USA</td>
+      <td>Rutgers School of Public Health, USA"</td>
    </tr>
    <tr>
       <td>20 mins</td>
       <td>(B725) A Bayesian framework for inferring heterogeneity of cellular processes using single-cell data</td>
       <td>Tianhai Tian</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
    </tr>
    <tr>
       <td>20 mins</td>
@@ -153,14 +146,7 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
    </tr>
    <tr>
       <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td></td>
       <td>Closing Remarks</td>
-   </tr>
-   <tr>
       <td></td>
    </tr>
 </table>
