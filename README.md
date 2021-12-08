@@ -87,9 +87,9 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
 
 <table border="1">
    <tr>
-      <td>Time</td>
-      <td>Title</td>
-      <td>Presenter/Author</td>
+      <th>Time</th>
+      <th>Title</th>
+      <th>Presenter/Author</th>
    </tr>
    <tr>
       <td>40 mins</td>
