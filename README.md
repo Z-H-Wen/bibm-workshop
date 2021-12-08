@@ -84,7 +84,7 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
 )
 
 # Time Table
-<div style="text-align:center">
+<div align = center>
 <table border="1" cellpadding="3" cellspacing="0" style="width: 60%;margin:auto">
    <tr>
       <td>Time</td>
