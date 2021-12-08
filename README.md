@@ -97,7 +97,7 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
 | 20 mins |                   (B816) Single-cell RNA   sequencing data clustering using graph convolutional networks                  |   Sheida Nabavi    |
 |         |                                                      **Closing Remarks**                                                  |           |
 
-<table>
+<table border="1">
    <tr>
      <td colspan="3">Computational methods and their applications on single cell multiomic data</td>
    </tr>
