@@ -87,12 +87,12 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
 
 |   Time  |                                                           Title                                                           |                             Presenter/Author                            |
 |:-------:|:-------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
-| 40 mins |                       Gene   relationship inference from multimodality single cell expression data                        | Ye   Yuan (keynote speaker),       Shanghai Jiao Tong University, China |
+| 40 mins |                       Gene   relationship inference from multimodality single cell expression data                        | Ye   Yuan (keynote speaker) |
 | 20 mins |            (B461)   Time-Series Analysis of Gene Correlation Networks based on Single-cell   Transcriptome Data           |                             Yasuhito   Asano                            |
 | 20 mins | (B501)   The effect of the infarct regions on vulnerability to reentry in two   different stages of myocardial infarction |                             Cuiping   Liang                             |
 | 20 mins |                   (B527)    Integration of Multiple scRNA-Seq Datasets on the Autoencoder Latent   Space                  |                           Andrea   Tangherloni                          |
 |         |                                                       Coffee   Break                                                      |                                                                         |
-| 40 mins |                          Model-based   Analysis of Alternative Polyadenylation Using 3’ End Reads                         |   Wei   Li (keynote speaker)      Rutgers School of Public Health, USA  |
+| 40 mins |                          Model-based   Analysis of Alternative Polyadenylation Using 3’ End Reads                         |   Wei   Li (keynote speaker) |
 | 20 mins |          (B725)   A Bayesian framework for inferring heterogeneity of cellular processes using   single-cell data         |                              Tianhai   Tian                             |
 | 20 mins |                   (B816) Single-cell RNA   sequencing data clustering using graph convolutional networks                  |                              Sheida Nabavi                              |
 |         |                                                      Closing Remarks                                                      |                                                                         |
