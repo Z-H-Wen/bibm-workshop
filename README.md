@@ -94,7 +94,7 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
    <tr>
       <td>40 mins</td>
       <td>Gene relationship inference from multimodality single cell expression data </td>
-      <td>Ye Yuan (keynote speaker)</td>
+      <td>Ye Yuan (Keynote)</td>
    </tr>
    <tr>
       <td>20 mins</td>
@@ -118,7 +118,7 @@ Electronic submissions (in PDF or Postscript format) are required. Selected part
    <tr>
       <td>40 mins</td>
       <td>Model-based Analysis of Alternative Polyadenylation Using 3’ End Reads</td>
-      <td>Wei Li (keynote speaker)</td>
+      <td>Wei Li (Keynote)</td>
    </tr>
    <tr>
       <td>20 mins</td>
